@@ -2,5 +2,5 @@
 # my config file ssh
 IdentifyFile ~/.ssh/school
 PasswordAuthentication no
-HostName    52.91.59.143
+HostName    54.221.112.4
 User	ubuntu
